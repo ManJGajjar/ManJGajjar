@@ -12,48 +12,64 @@
 
 ---
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManJGajjar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&langs_count=8" width="340" />
+
+### // $ cat about_me.sh
+
 ```bash
 #!/bin/bash
 
 NAME="ManJGajjar"
-ROLE="Full-Stack Developer | Data Scientist | ML Engineer"
+ROLE="Full-Stack Dev | Data Scientist | ML Engineer"
 MISSION="Fueling innovation with coffee and clean code ☕"
 BASED="India 🇮🇳"
-OPEN_TO=("Collabs" "Hackathons" "Freelance" "Internships" "Open Source")
+OPEN_TO=("Collabs" "Hackathons" "Freelance"
+         "Internships" "Open Source")
 STATUS="[ ██████████ ] Always Shipping"
 
 echo "Welcome to my GitHub. Explore. Fork. Build."
 ```
 
+<br clear="both"/>
+
 ---
 
-## 📊 GitHub Stats
+### // $ .github_stats.sh — *"these numbers update every commit"*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManJGajjar&show_icons=true&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=39ff14&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://streak-stats.demolab.com?user=ManJGajjar&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=39ff14" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ManJGajjar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=39ff14&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+<img src="https://streak-stats.demolab.com?user=ManJGajjar&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=39ff14&sideNums=39ff14&dates=1a5c00" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManJGajjar&layout=donut&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&langs_count=10&count_private=true" width="38%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManJGajjar&theme=matrix&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=true" width="57%" />
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManJGajjar&theme=green&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=true&area_color=003b00" width="98%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManJGajjar&theme=github_dark" width="98%" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+### // $ cat trophies_flex
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManJGajjar&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ManJGajjar&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%" />
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+### // $ ls -la tech_stack/
 
-**Languages**
+**`Languages`**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -65,16 +81,17 @@ echo "Welcome to my GitHub. Explore. Fork. Build."
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend**
+**`Frontend`**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend & Databases**
+**`Backend & Databases`**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -84,7 +101,7 @@ echo "Welcome to my GitHub. Explore. Fork. Build."
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Data Science & ML**
+**`Data Science & ML`**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -96,14 +113,17 @@ echo "Welcome to my GitHub. Explore. Fork. Build."
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-**Tools & DevOps**
+**`Tools & DevOps`**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Cloud Platforms**
+**`Cloud Platforms`**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -112,7 +132,22 @@ echo "Welcome to my GitHub. Explore. Fork. Build."
 
 ---
 
-## 💬 Dev Quote
+### // $ git log --oneline --graph
+
+<div align="center">
+
+<a href="https://github.com/ManJGajjar/digital-wellbeing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManJGajjar&repo=digital-wellbeing&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=39ff14" width="49%" />
+</a>
+<a href="https://github.com/ManJGajjar/job-connect-hub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManJGajjar&repo=job-connect-hub&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=39ff14" width="49%" />
+</a>
+
+</div>
+
+---
+
+### // 💬 Dev Quote
 
 <div align="center">
 
@@ -122,7 +157,7 @@ echo "Welcome to my GitHub. Explore. Fork. Build."
 
 ---
 
-## 📡 Connect
+### // $ ssh connect@manjgajjar
 
 <div align="center">
 
