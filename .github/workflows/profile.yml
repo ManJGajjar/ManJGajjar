@@ -1,0 +1,97 @@
+name: Generate Profile Content
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ManJGajjar
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Metrics - Base
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-base.svg
+          user: ManJGajjar
+          template: classic
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_output: svg
+
+      - name: Generate Metrics - Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-languages.svg
+          user: ManJGajjar
+          template: classic
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_load: 500
+          plugin_languages_sections: most-used, recently-used
+          config_timezone: Asia/Kolkata
+          config_output: svg
+
+      - name: Generate Metrics - Habits
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-habits.svg
+          user: ManJGajjar
+          template: classic
+          base: ""
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          config_timezone: Asia/Kolkata
+          config_output: svg
+
+      - name: Generate Metrics - Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-achievements.svg
+          user: ManJGajjar
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          config_timezone: Asia/Kolkata
+          config_output: svg
