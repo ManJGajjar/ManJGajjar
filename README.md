@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:00ff41&height=200&section=header&text=ManJGajjar&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55&descAlign=50&descColor=39ff14&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003b00,100:00ff41&height=200&section=header&text=ManJGajjar&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=60&descAlign=50&descColor=39ff14&descSize=15" width="100%" />
 
 <a href="https://github.com/ManJGajjar">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%24+whoami+%E2%86%92+ManJGajjar;Full-Stack+Dev+%7C+Data+Scientist+%7C+ML+Engineer;Fueling+innovation+with+coffee+%E2%98%95+and+clean+code;git+commit+-m+%22shipped+another+banger+%F0%9F%9A%80%22;import+tensorflow+as+tf+%23+let%27s+build" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=550&height=40&lines=%24+whoami+%E2%86%92+ManJGajjar;Full-Stack+Dev+%7C+Data+Scientist+%7C+ML+Engineer;Fueling+innovation+with+coffee+%E2%98%95+and+clean+code;git+commit+-m+%22shipped+another+banger+%F0%9F%9A%80%22;import+tensorflow+as+tf+%23+let%27s+build" />
 </a>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING-00ff41?style=flat-square&labelColor=0d0d0d" />
 &nbsp;
@@ -40,12 +40,12 @@ echo "Welcome to my GitHub. Explore. Fork. Build. 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManJGajjar&show_icons=true&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=39ff14&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ManJGajjar&show_icons=true&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=39ff14&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
 <img src="https://streak-stats.demolab.com?user=ManJGajjar&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41&currStreakNum=39ff14&sideNums=39ff14" width="49%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManJGajjar&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&langs_count=8" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManJGajjar&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=39ff14&langs_count=8" width="60%" />
 
 </div>
 
@@ -65,7 +65,7 @@ echo "Welcome to my GitHub. Explore. Fork. Build. 🚀"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManJGajjar&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=ManJGajjar&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
@@ -130,6 +130,7 @@ echo "Welcome to my GitHub. Explore. Fork. Build. 🚀"
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 ---
 
@@ -142,7 +143,7 @@ echo "Welcome to my GitHub. Explore. Fork. Build. 🚀"
 | [**AnantViGyan**](https://github.com/ManJGajjar/AnantViGyan) | Space education platform with 3D solar system | `HTML` `CSS` `JS` |
 | [**Digital-Well-Being-Analyzer**](https://github.com/ManJGajjar/Digital-Well-Being-Image-Analyzer) | AI-powered digital wellness analyzer | `Python` `ML` |
 | [**90-S-ORACLE**](https://github.com/ManJGajjar/90-S-ORACLE) | CodeDex Hackathon — Oracle 90s redesign | `HTML` `CSS` |
-| [**SIH-25**](https://github.com/ManJGajjar/SIH-25) | Smart India Hackathon 2025 project | `Full-Stack` |
+| [**SIH-25**](https://github.com/ManJGajjar/SIH-25) | Smart India Hackathon 2025 | `Full-Stack` |
 | [**SoochnaSetu-AI**](https://github.com/ManJGajjar/SoochnaSetu-AI) | AI-powered information bridge platform | `Python` `AI` |
 | [**RNN-Implementation**](https://github.com/ManJGajjar/Recurrent-Neural-Network-RNNs) | Recurrent Neural Networks with TensorBoard | `Python` `TF` |
 | [**Online-Job-Portal**](https://github.com/ManJGajjar/Online-Job-Portal) | Full-stack job listing platform | `Full-Stack` |
